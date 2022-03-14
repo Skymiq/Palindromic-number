@@ -13,6 +13,7 @@ It is a hypothesis testing program for the first 200 natural numbers as starting
 **Sample result**
 
 The palidrome for the number 178 found in step 4 is 15851 
+
 The palidrome for the number 179 found in step 3 is 1661 
 
 The palidrome for the number 180 found in step 4 is 747
